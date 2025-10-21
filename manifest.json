@@ -1,0 +1,16 @@
+{
+  "name": "Input Form Visualization",
+  "organization": "Your Name",
+  "description": "Form input sederhana untuk Looker Studio.",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Data_Studio_logo.svg",
+  "organizationUrl": "https://yourwebsite.com",
+  "components": [
+    {
+      "id": "input-form",
+      "type": "dscc-scripts",
+      "entrypoint": "index.html"
+    }
+  ],
+  "supportsData": false,
+  "defaultConfig": {}
+}
