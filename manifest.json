@@ -1,7 +1,7 @@
 {
-  "name": "Input Form for Monitoring Barang Jasa",
+  "name": "Input Form Monitoring Barang Jasa",
   "organization": "welanokharisma",
-  "description": "Form untuk input data monitoring barang/jasa di Looker Studio",
+  "description": "Custom form visualisation for Looker Studio",
   "logoUrl": "https://welanokharisma.github.io/looker-input-form-monitoring-barang-jasa/logo.png",
   "supportUrl": "https://github.com/welanokharisma/looker-input-form-monitoring-barang-jasa",
   "packageUrl": "https://welanokharisma.github.io/looker-input-form-monitoring-barang-jasa/",
